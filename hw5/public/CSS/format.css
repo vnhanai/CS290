@@ -1,0 +1,14 @@
+table{
+    border-style: solid;
+}
+th, td {
+    border-style: solid;
+    border-color: black;
+    text-align: left;
+    padding: 8px;
+}
+.tableTitle{
+    color:palevioletred;
+    text-align: center;
+
+}
